@@ -1,10 +1,20 @@
+DOM: https://viblo.asia/p/virtual-dom-trong-reactjs-YWOZrMdEKQ0
+
 Begin: https://viblo.asia/p/reactjs-cho-nguoi-moi-bat-dau-LzD5dP9e5jY
        https://viblo.asia/p/tim-hieu-ve-reactjs-ogBG2lo5RxnL
 
-DOM: https://viblo.asia/p/virtual-dom-trong-reactjs-YWOZrMdEKQ0
-
 React Lifecycle: https://viblo.asia/p/vong-doi-cua-mot-react-component-RQqKLMRzZ7z
+                 https://viblo.asia/p/hieu-react-life-cycle-cua-component-part-1-RQqKLzq6l7z
 
 5.7: https://viblo.asia/p/laravel-57-reactjs-tutorial-Az45bWawKxY
 
 5.5: https://viblo.asia/p/laravel-55-va-react-js-phan-1-cai-dat-va-hien-thi-vi-du-bJzKmkNBl9N
+
+- Cơ chế của reactjs là single-page.
+  + https://viblo.asia/p/tim-hieu-ve-reactjs-Az45bg3VKxY
+
+- Tất cả các route trên browser đều load 1 blade duy nhất: welcome.blade
+
+- Ở blade sẽ load app.js -> example.js (là 1 webapp)
+
+* Nếu làm frontend và backend thì tạo 2 route ở laravel + 2 blade + 2 file app.js tương ứng
